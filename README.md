@@ -1,1 +1,2 @@
 # recipes
+This project is a simple project based on HTML and is to demonstrate some basic HTML skills that include adding links, images, text, paragraphs, and more. This project also demonstrates some simple skills with using version control. 
